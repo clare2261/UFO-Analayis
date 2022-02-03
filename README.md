@@ -14,5 +14,5 @@ Now if we were to want to sort it by only UFOs in the state of texas we would si
 You can change what your filtering on and write it over any blank and refilter to continue to look at different slices of the data.
 
 ## Summary
-One drawback is that the filters do not stack.  Such as, when i filter by the state of California, the table returns many results.  I cannot then refine the search to be california and only a circle shape.  This would need to be addressed before going public with this site.  I would also like to find more data.  It appears the data only covers about 2 weeks.  Maybe by scraping other websites that house databases of this information we could expand our data list.  
+One drawback the limitation on data.  Collecting and scrubbing more data would make the website better.  Also, the website is not very intuitive.  Maybe by correcting for small spelling errors it would be easier to use.
 
